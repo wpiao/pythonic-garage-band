@@ -1,6 +1,5 @@
 import json
 import pytest
-import json
 import yaml
 
 from band import Band, Musician, Guitarist, Bassist, Drummer
